@@ -1,4 +1,4 @@
-# 💰 Bitcoin Fraud Detection System (TDSP-Based ML Project)
+# 💰 Bitcoin Fraud Detection System 
 
 ## 🚀 Overview
 
