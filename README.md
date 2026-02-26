@@ -4,7 +4,13 @@
 
 This project presents an end-to-end **Bitcoin Fraud Detection System** built using machine learning and aligned with the **Team Data Science Process (TDSP)** methodology. The system identifies fraudulent transactions from blockchain data using advanced modeling, feature engineering, and evaluation techniques.
 
-It also includes an interactive **Streamlit web application** for real-time fraud prediction.
+---
+## 📂 Dataset
+
+Due to GitHub file size limitations, the dataset is not included.
+
+Download from:
+https://www.kaggle.com/datasets/ellipticco/elliptic-data-set
 
 ---
 
